@@ -1,5 +1,5 @@
 class Autor:
-    def __int__(self, nom, pseudo):
+    def __init__(self, nom, pseudo):
         self.__nombre = nom
         self.__pseudonimo = pseudo
 
